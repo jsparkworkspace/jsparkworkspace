@@ -11,7 +11,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=뱃지모양&logo=JavaScript&logoColor=white"/></a>
 
 #### Backend
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JAVA-black?style=뱃지모양&logo=JAVA&logoColor=white"/></a>
+<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-black?style=뱃지모양&logo=JAVA&logoColor=white"/></a>
 
 #### Server
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CentOS-black?style=뱃지모양&logo=CentOS&logoColor=white"/></a>
@@ -35,11 +35,11 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ZConverter-black?style=뱃지모양&logo=ZConverter&logoColor=white"/></a>
 
 #### Cloud
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/AWS-black?style=뱃지모양&logo=Amazon AWS&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/NCP-black?style=뱃지모양&logo=NCP&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/KT Cloud-black?style=뱃지모양&logo=KT Cloud&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SCP-black?style=뱃지모양&logo=SCP&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/VMware-black?style=뱃지모양&logo=VMware&logoColor=white"/></a>
+<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-black?style=뱃지모양&logo=Amazon AWS&logoColor=white"/></a>
+<a href="https://www.ncloud.com/" target="_blank"><img src="https://img.shields.io/badge/NCP-black?style=뱃지모양&logo=NCP&logoColor=white"/></a>
+<a href="https://cloud.kt.com/" target="_blank"><img src="https://img.shields.io/badge/KT Cloud-black?style=뱃지모양&logo=KT Cloud&logoColor=white"/></a>
+<a href="https://cloud.samsungsds.com/serviceportal/index.html" target="_blank"><img src="https://img.shields.io/badge/SCP-black?style=뱃지모양&logo=SCP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VMware-black?style=뱃지모양&logo=VMware&logoColor=white"/>
 
 
 
