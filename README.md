@@ -11,13 +11,13 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=뱃지모양&logo=JavaScript&logoColor=white"/></a>
 
 #### Backend
-<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-black?style=뱃지모양&logo=JAVA&logoColor=white"/></a>
+<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-black?logo=JAVA&logoColor=white"/></a>
 
 #### Server
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CentOS-black?style=뱃지모양&logo=CentOS&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-black?style=뱃지모양&logo=Ubuntu&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RHEL-black?style=뱃지모양&logo=RedHat&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Windows Server-black?style=뱃지모양&logo=Windows&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CentOS-black?logo=CentOS&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-black?logo=Ubuntu&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RHEL-black?logo=RedHat&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Windows Server-black?logo=Windows&logoColor=white"/></a>
 
 #### MiddleWare
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apache-black?style=뱃지모양&logo=Apache&logoColor=white"/></a>
