@@ -1,44 +1,44 @@
 # JSPark Workspace
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion 블로그-black?style=뱃지모양&logo=Notion&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion 블로그-black?logo=Notion&logoColor=white"/></a>
 
 ![jsparkworkspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsparkworkspace&show_icons=true&theme=radical)
 
 #### Frontend
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5-black?style=뱃지모양&logo=html5&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-black?style=뱃지모양&logo=css3&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=뱃지모양&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=white"/>
 
 #### Backend
-<a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-black?logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-black?logo=JAVA&logoColor=white"/>
 
 #### Server
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CentOS-black?logo=CentOS&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-black?logo=Ubuntu&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RHEL-black?logo=RedHat&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Windows Server-black?logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CentOS-black?logo=CentOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-black?logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/RHEL-black?logo=RedHat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows Server-black?logo=Windows&logoColor=white"/>
 
 #### MiddleWare
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Apache-black?style=뱃지모양&logo=Apache&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tomcat-black?style=뱃지모양&logo=ApacheTomcat&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-black?style=뱃지모양&logo=MySQL&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MariaDB-black?style=뱃지모양&logo=MariaDB&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-black?style=뱃지모양&logo=PostgreSQL&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MSSQL-black?style=뱃지모양&logo=microsoftsqlserver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache-black?logo=Apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tomcat-black?logo=ApacheTomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-black?logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-black?logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-black?logo=microsoftsqlserver&logoColor=white"/>
 
 
 #### ThirdParty Solution
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/VirusChaser-black?style=뱃지모양&logo=VirusChaser&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Avast-black?style=뱃지모양&logo=Avast&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MCCS-black?style=뱃지모양&logo=MCCS&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ZConverter-black?style=뱃지모양&logo=ZConverter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VirusChaser-black?logo=VirusChaser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Avast-black?logo=Avast&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCCS-black?logo=MCCS&logoColor=white"/>
+<img src="https://img.shields.io/badge/ZConverter-black?logo=ZConverter&logoColor=white"/>
 
 #### Cloud
-<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/AWS-black?style=뱃지모양&logo=Amazon AWS&logoColor=white"/></a>
-<a href="https://www.ncloud.com/" target="_blank"><img src="https://img.shields.io/badge/NCP-black?style=뱃지모양&logo=NCP&logoColor=white"/></a>
-<a href="https://cloud.kt.com/" target="_blank"><img src="https://img.shields.io/badge/KT Cloud-black?style=뱃지모양&logo=KT Cloud&logoColor=white"/></a>
-<a href="https://cloud.samsungsds.com/serviceportal/index.html" target="_blank"><img src="https://img.shields.io/badge/SCP-black?style=뱃지모양&logo=SCP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-black?logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/NCP-black?logo=NCP&logoColor=white"/>
+<img src="https://img.shields.io/badge/KT Cloud-black?logo=KT Cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCP-black?&logo=SCP&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-black?style=뱃지모양&logo=VMware&logoColor=white"/>
 
 
