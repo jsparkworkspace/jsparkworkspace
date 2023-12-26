@@ -35,11 +35,11 @@
 <img src="https://img.shields.io/badge/ZConverter-black?logo=ZConverter&logoColor=white"/>
 
 #### Cloud
-<img src="https://img.shields.io/badge/AWS-black?logo=Amazon AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/NCP-black?logo=NCP&logoColor=white"/>
-<img src="https://img.shields.io/badge/KT Cloud-black?logo=KT Cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCP-black?&logo=SCP&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-black?style=뱃지모양&logo=VMware&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-black?logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/NCP-black?logo=NCP&logoColor=white">
+<img src="https://img.shields.io/badge/KT Cloud-black?logo=KT Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/SCP-black?&logo=SCP&logoColor=white">
+<img src="https://img.shields.io/badge/VMware-black?logo=VMware&logoColor=white">
 
 
 
